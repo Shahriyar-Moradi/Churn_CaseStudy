@@ -1,1 +1,1 @@
-# Bonial_CaseStudy
+# User Activity Prediction and Churn CaseStudy
